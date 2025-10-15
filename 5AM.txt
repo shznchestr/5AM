@@ -3,4 +3,6 @@ Proofpoint
 WithSecure
 
 Mimecast
+Fortinet
+
 F-Secure
