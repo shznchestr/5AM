@@ -6,3 +6,6 @@ Mimecast
 Fortinet
 
 F-Secure
+
+Moldov Academy
+RED TEAM
